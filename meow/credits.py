@@ -1,0 +1,12 @@
+def creditos():
+  print("A Ilha Enjaulada é um pequeno jogo de aventura em texto, feito inteiramente em Python e hospedado no replit.com\n\n")
+  print("História,\nRoteiro,\nTradução\n e\nProgramação\npor:\nSergio Augusto Knapik\ntambém conhecido como\nwolfnomknight\n\n")
+  print("Tudo neste jogo que não for arte em ASCII foi criado por Sergio 'Wolf' Knapik em 2021 e é de sua propriedade intelectual.\n\n")
+  print("Art:\nSmall Village by Steven Maddison - https://www.asciiart.eu/buildings-and-places/cities\nDragon by Ironwing - https://www.asciiart.eu/mythology/dragons\nDragon by Shanaka Dias - https://www.asciiart.eu/mythology/dragons\nKnight by Anonimous - https://www.asciiart.eu/mythology/knights\nWizard by Morfina - https://www.asciiart.eu/mythology/wizards\nBoat by Anonimous - https://www.asciiart.eu/vehicles/boats\nMountains by Joan Stark - https://www.asciiart.eu/nature/mountains\nTombstones by Hayley Jane Wakenshaw - https://www.asciiart.eu/buildings-and-places/church\nSkull by ZEUS - https://www.asciiart.eu/mythology/skeletons\nSword by Christopher Weible - https://www.asciiart.eu/weapons/swords\nTree by Anonimous - https://www.asciiart.eu/plants/other\nBoat by Anonimous - https://www.asciiart.eu/vehicles/boats")
+
+def credits():
+  print("The Caged Island is a little text-based adventure game, made entirely in Python and hosted in replit.com\n\n")
+  print("Story,\nScript,\nTranslation\n and\nCoding\nby:\nSergio Augusto Knapik\naka\nwolfnomknight\n\n")
+  print("Everything in this game that is not ASCII art has been created by Sergio 'Wolf' Knapik in 2021 and is his intelectual property.\n\n")
+  print("Art:\nSmall Village by Steven Maddison - https://www.asciiart.eu/buildings-and-places/cities\nDragon by Ironwing - https://www.asciiart.eu/mythology/dragons\nDragon by Shanaka Dias - https://www.asciiart.eu/mythology/dragons\nKnight by Anonimous - https://www.asciiart.eu/mythology/knights\nWizard by Morfina - https://www.asciiart.eu/mythology/wizards\nBoat by Anonimous - https://www.asciiart.eu/vehicles/boats\nMountains by Joan Stark - https://www.asciiart.eu/nature/mountains\nTombstones by Hayley Jane Wakenshaw - https://www.asciiart.eu/buildings-and-places/church\nSkull by ZEUS - https://www.asciiart.eu/mythology/skeletons\nSword by Christopher Weible - https://www.asciiart.eu/weapons/swords\nTree by Anonimous - https://www.asciiart.eu/plants/other\nBoat by Anonimous - https://www.asciiart.eu/vehicles/boats")
+  
